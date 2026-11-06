@@ -1,0 +1,154 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Length 4519 >>
+stream
+1 1 1 rg 0 0 612 792 re f
+0.06 0.18 0.35 rg 0 742 612 50 re f
+1 1 1 rg BT /F2 10 Tf 48 761 Td (HEALTHCARE ANALYTICS | DECISION BRIEF) Tj ET
+1 0.95 0.82 rg 48 698 516 30 re f
+0.47 0.29 0.02 rg BT /F2 10 Tf 60 710 Td (DEMO ONLY: all figures are synthetic, not operational findings.) Tj ET
+0.07 0.19 0.35 rg BT /F2 23 Tf 48 670 Td (Medication Review Workflow Pilot) Tj ET
+0.36 0.43 0.53 rg BT /F1 10 Tf 48 650 Td (Leadership briefing | Pharmacy and healthcare operations) Tj ET
+0.08 0.3 0.57 rg BT /F2 13 Tf 48 622 Td (Decision requested) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 604 Td (Approve a data-validation and governance planning phase for a time-limited medication-review) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 590 Td (pilot, after the assigned approved datasets are supplied.) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 557 Td (Executive summary) Tj ET
+0.82 0.88 0.94 RG 48 550 m 564 550 l S
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 536 Td (This package demonstrates how patient cohort, pharmacy dispensing, and safety-report) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 522 Td (summaries could inform an operational review workflow. The current examples are synthetic) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 508 Td (and support no real-world clinical or operational conclusion. Validate definitions and data) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 494 Td (quality before any pilot.) Tj ET
+0.92 0.96 1 rg 48 440 120 62 re f
+0.08 0.34 0.64 rg BT /F2 21 Tf 60 475 Td (18) Tj ET
+0.3 0.38 0.5 rg BT /F1 8 Tf 60 456 Td (demo cohort records) Tj ET
+0.92 0.96 1 rg 180 440 120 62 re f
+0.08 0.34 0.64 rg BT /F2 21 Tf 192 475 Td (42) Tj ET
+0.3 0.38 0.5 rg BT /F1 8 Tf 192 456 Td (demo dispensed fills) Tj ET
+0.92 0.96 1 rg 312 440 120 62 re f
+0.08 0.34 0.64 rg BT /F2 21 Tf 324 475 Td (17) Tj ET
+0.3 0.38 0.5 rg BT /F1 8 Tf 324 456 Td (demo safety reports) Tj ET
+0.92 0.96 1 rg 444 440 120 62 re f
+0.08 0.34 0.64 rg BT /F2 21 Tf 456 475 Td (35%) Tj ET
+0.3 0.38 0.5 rg BT /F1 8 Tf 456 456 Td (serious-report share) Tj ET
+0.42 0.47 0.55 rg BT /F1 8 Tf 48 425 Td (Synthetic examples only. Report counts are not incidence, risk, or proof of causation.) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 394 Td (Operational question and proposed measures) Tj ET
+0.82 0.88 0.94 RG 48 387 m 564 387 l S
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 373 Td (Question: Can a weekly medication-review queue help pharmacy operations identify records that) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 359 Td (merit review and improve timely review without creating inequitable or privacy-invasive) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 345 Td (workflows?) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 333 Td (1.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 333 Td (Data completeness for age band, medication, fill date, and review status.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 319 Td (2.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 319 Td (Share of eligible records reviewed within seven days.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 305 Td (3.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 305 Td (Adjudicated actionable-review rate, defined by an authorized clinical team.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 291 Td (4.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 291 Td (Refill-gap trend against a pre-specified baseline and comparison period.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 277 Td (5.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 277 Td (Subgroup coverage, missingness, and workflow workload.) Tj ET
+0.9 0.97 0.94 rg 48 228 516 44 re f
+0.1 0.42 0.32 rg BT /F2 10 Tf 60 252 Td (Recommendation) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 60 237 Td (Authorize data validation and pilot design. Do not use demo figures to identify, rank,) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 60 225 Td (or intervene on real patients.) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 202 Td (Evidence and interpretation) Tj ET
+0.82 0.88 0.94 RG 48 195 m 564 195 l S
+0.14 0.2 0.29 rg BT /F1 9 Tf 48 181 Td (The dashboard combines aggregate age-band/risk-flag counts, pharmacy fills/refill gaps, and) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 48 168 Td (safety-report/seriousness counts. For assigned data, document sources, date range, inclusion) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 48 155 Td (rules, duplicates, field mapping, and denominators. Treat joins as exploratory until data) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 48 142 Td (owners validate linkage.) Tj ET
+0.42 0.47 0.55 rg BT /F1 8 Tf 48 72 Td (See page 2 for privacy safeguards, limitations, and next steps.) Tj ET
+0.42 0.47 0.55 rg BT /F1 9 Tf 548 28 Td (1) Tj ET
+
+1 1 1 rg 0 0 612 792 re f
+endstream
+endobj
+8 0 obj
+<< /Length 4549 >>
+stream
+0.06 0.18 0.35 rg 0 742 612 50 re f
+1 1 1 rg BT /F2 10 Tf 48 761 Td (HEALTHCARE ANALYTICS | METHODS & GUARDRAILS) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 704 Td (Data sources and definitions) Tj ET
+0.82 0.88 0.94 RG 48 697 m 564 697 l S
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 682 Td (The bundled patient, pharmacy, and safety summary tables are synthetic teaching data created) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 668 Td (only to demonstrate a workflow. The task screenshot indicated supplied materials, but their) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 654 Td (links were not visible. Replace every demo CSV with the assigned, approved source files) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 640 Td (before reporting actual results.) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 627 Td (A dispensed fill does not prove ingestion. Spontaneous adverse-event reports can be) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 613 Td (incomplete, duplicated, unverified, and affected by reporting behavior. Serious-report) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 599 Td (proportions describe submitted reports; they do not measure patient-level risk. Multiple) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 585 Td (products and events in a report do not establish a causal pair.) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 565 Td (Privacy, bias, and quality) Tj ET
+0.82 0.88 0.94 RG 48 558 m 564 558 l S
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 542 Td (1.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 542 Td (Use approved minimum-necessary, de-identified or aggregate data; restrict access.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 525 Td (2.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 525 Td (Suppress small cells per organizational policy and avoid re-identification through) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 512 Td (filters.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 495 Td (3.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 495 Td (Assess missingness and representation before subgroup comparisons.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 478 Td (4.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 478 Td (Have clinical governance define review criteria; monitor false positives and workload.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 461 Td (5.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 461 Td (Predefine the baseline, cohort, time window, and success thresholds.) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 438 Td (Limitations) Tj ET
+0.82 0.88 0.94 RG 48 431 m 564 431 l S
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 415 Td (These examples are not supplied operational data. Results are illustrative and must not be) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 401 Td (used for medical care, medication changes, patient ranking, or product safety conclusions. A) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 387 Td (public adverse-event report signal cannot establish causation or incidence without additional) Tj ET
+0.14 0.2 0.29 rg BT /F1 10 Tf 48 373 Td (validated evidence and appropriate study design.) Tj ET
+0.08 0.3 0.57 rg BT /F2 15 Tf 48 348 Td (Next steps) Tj ET
+0.82 0.88 0.94 RG 48 341 m 564 341 l S
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 325 Td (1.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 325 Td (Obtain the assigned datasets and data dictionaries from the task materials.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 309 Td (2.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 309 Td (Confirm lawful access, minimum-necessary fields, cohort rules, and refresh date.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 293 Td (3.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 293 Td (Recompute metrics; validate with data owners and the pharmacy/clinical team.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 277 Td (4.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 277 Td (Review privacy, bias, small-cell risks, and workload before a limited pilot.) Tj ET
+0.08 0.3 0.57 rg BT /F2 9 Tf 54 261 Td (5.) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 70 261 Td (Publish results with denominators, missingness, and uncertainty clearly shown.) Tj ET
+0.92 0.96 1 rg 48 139 516 46 re f
+0.08 0.3 0.57 rg BT /F2 10 Tf 60 163 Td (Leadership ask) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 60 148 Td (Approve a governed validation and pilot-design phase only; request real approved inputs) Tj ET
+0.14 0.2 0.29 rg BT /F1 9 Tf 60 136 Td (before making operational decisions.) Tj ET
+0.42 0.47 0.55 rg BT /F1 8 Tf 48 78 Td (Source framework: FDA openFDA Drug Adverse Event reporting documentation. This project uses no downloaded) Tj ET
+0.42 0.47 0.55 rg BT /F1 8 Tf 48 66 Td (patient records; public spontaneous-report counts still require careful, non-causal interpretation.) Tj ET
+0.42 0.47 0.55 rg BT /F1 9 Tf 548 28 Td (2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000000399 00000 n 
+0000000469 00000 n 
+0000000544 00000 n 
+0000005115 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+9716
+%%EOF
